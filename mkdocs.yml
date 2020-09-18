@@ -6,6 +6,13 @@ site_name: Dorrestein Lab Website
 
 nav:
     - Homepage: index.md
+    - Research: reseach.md
+    - Pieter: pieter.md
+    - Lab Members: members.md
+    - GNPS: gnps.md
+    - Publications: publications.md
+    - Instruments: instruments.md
+    - News: news.md
 theme:
     name: material
 
