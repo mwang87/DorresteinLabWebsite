@@ -1,0 +1,28 @@
+site_name: Dorrestein Lab Website
+#site_url: https://ccms-ucsd.github.io/GNPSDocumentation/
+#edit_uri: https://github.com/CCMS-UCSD/GNPSDocumentation/blob/master/docs/
+#repo_name: CCMS-UCSD/GNPSDocumentation
+#repo_url: https://github.com/CCMS-UCSD/GNPSDocumentation
+
+nav:
+    - Homepage: index.md
+theme:
+    name: material
+
+plugins:
+    - search
+    - git-authors:
+        show_contribution: true
+    - git-revision-date-localized:
+        type: datetime
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - admonition
+    - pymdownx.superfences
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:pymdownx.emoji.twemoji
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+            
