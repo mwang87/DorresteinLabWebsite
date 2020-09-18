@@ -6,7 +6,7 @@ repo_url: https://github.com/mwang87/DorresteinLabWebsite
 
 nav:
     - Homepage: index.md
-    - Research: reseach.md
+    - Research: research.md
     - Pieter: pieter.md
     - Lab Members: members.md
     - GNPS: gnps.md
