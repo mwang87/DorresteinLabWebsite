@@ -1,8 +1,8 @@
 site_name: Dorrestein Lab Website
 #site_url: https://ccms-ucsd.github.io/GNPSDocumentation/
-#edit_uri: https://github.com/CCMS-UCSD/GNPSDocumentation/blob/master/docs/
-#repo_name: CCMS-UCSD/GNPSDocumentation
-#repo_url: https://github.com/CCMS-UCSD/GNPSDocumentation
+edit_uri: https://github.com/mwang87/DorresteinLabWebsite/blob/master/docs/
+repo_name: DorresteinLabWebsite
+repo_url: https://github.com/mwang87/DorresteinLabWebsite
 
 nav:
     - Homepage: index.md
