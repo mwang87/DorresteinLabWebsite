@@ -18,4 +18,8 @@
 
 ### Graduate Researchers
 
-## Staff Researchers
+### Staff Researchers
+
+### Visiting Researchers
+
+### Undergraduate Researchers
